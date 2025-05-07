@@ -1,0 +1,167 @@
+﻿@{
+    ViewData["Title"] = "Signup";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+        }
+
+        .center-wrapper {
+            min-height: calc(100vh - 100px); /* adjust if needed */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .register-card {
+            background: #fff;
+            padding: 30px 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+            width: 100%;
+            max-width: 400px;
+            transition: 0.3s ease-in-out;
+        }
+
+            .register-card h2 {
+                text-align: center;
+                margin-bottom: 25px;
+                font-size: 24px;
+                color: #333;
+            }
+
+            .register-card input {
+                width: 100%;
+                padding: 12px 15px;
+                margin-bottom: 20px;
+                border: 1px solid #ccc;
+                border-radius: 8px;
+                font-size: 15px;
+                transition: border-color 0.2s;
+            }
+
+                .register-card input:focus {
+                    border-color: #5b9df9;
+                    outline: none;
+                }
+
+            .register-card button {
+                width: 100%;
+                padding: 12px;
+                background: #111;
+                border: none;
+                border-radius: 8px;
+                color: white;
+                font-size: 16px;
+                cursor: pointer;
+                transition: background 0.3s;
+            }
+
+                .register-card button:hover {
+                    background: #4a8ae8;
+                }
+
+            .register-card .link {
+                text-align: center;
+                margin-top: 15px;
+                font-size: 14px;
+            }
+
+                .register-card .link a {
+                    color: #5b9df9;
+                    text-decoration: none;
+                }
+
+                    .register-card .link a:hover {
+                        text-decoration: underline;
+                    }
+
+        /* Toast */
+        .toast {
+            visibility: hidden;
+            min-width: 250px;
+            margin: 0 auto;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 8px;
+            padding: 20px;
+            position: fixed;
+            z-index: 1;
+            left: 50%;
+            bottom: 30px;
+            transform: translateX(-50%);
+            font-size: 16px;
+        }
+
+            .toast.show {
+                visibility: visible;
+                animation: fadein 0.5s, fadeout 0.5s 2.5s;
+            }
+
+    </style>
+</head>
+<body>
+
+    <div class="center-wrapper">
+        <div class="register-card">
+            <h2>Create Account</h2>
+            <form id="registerForm">
+                <input type="text" name="username" id="username" placeholder="Username" required>
+                <input type="email" name="email" id="email" placeholder="Email" required>
+                <input type="password" name="password" id="password" placeholder="Password" required>
+                <input type="password" name="confirm_password" id="confirm_password" placeholder="Confirm Password" required>
+                <button type="submit">Register</button>
+                <div class="link">
+                    <p>Already have an account? <a href="#">Login here</a></p>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div id="toast" class="toast">Registered successfully!</div>
+
+    <script>
+        document.getElementById("registerForm").addEventListener("submit", function (e) {
+            e.preventDefault();
+            const username = document.getElementById("username").value.trim();
+            const email = document.getElementById("email").value.trim();
+            const password = document.getElementById("password").value;
+            const confirmPassword = document.getElementById("confirm_password").value;
+
+            if (
+                username === "swostika" &&
+                email === "swostika@gmail.com" &&
+                password === "1234" &&
+                confirmPassword === "1234"
+            ) {
+                showToast("Registered successfully!");
+                this.reset();
+            } else {
+                showToast("Invalid registration info");
+            }
+        });
+
+        function showToast(message) {
+            const toast = document.getElementById("toast");
+            toast.textContent = message;
+            toast.className = "toast show";
+            setTimeout(() => {
+                toast.className = "toast";
+            }, 3000);
+        }
+    </script>
+
+</body>
+</html>

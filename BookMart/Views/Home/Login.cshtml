@@ -1,0 +1,128 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Modern Login Form</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .login-card {
+            background: #fff;
+            padding: 40px 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+            width: 100%;
+            max-width: 360px;
+            transition: 0.3s ease-in-out;
+        }
+
+        .center-wrapper {
+            min-height: calc(100vh - 100px); /* adjust if needed */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+            .login-card h2 {
+                text-align: center;
+                margin-bottom: 25px;
+                font-size: 24px;
+                color: #333;
+            }
+
+            .login-card input {
+                width: 100%;
+                padding: 12px 15px;
+                margin-bottom: 20px;
+                border: 1px solid #ccc;
+                border-radius: 8px;
+                font-size: 15px;
+                transition: border-color 0.2s;
+            }
+
+                .login-card input:focus {
+                    border-color: #5b9df9;
+                    outline: none;
+                }
+
+            .login-card button {
+                width: 100%;
+                padding: 12px;
+                background: #111;
+                border: none;
+                border-radius: 8px;
+                color: white;
+                font-size: 16px;
+                cursor: pointer;
+                transition: background 0.3s;
+            }
+
+                .login-card button:hover {
+                    background: #4a8ae8;
+                }
+
+            .login-card .link {
+                text-align: center;
+                margin-top: 15px;
+                font-size: 14px;
+            }
+
+                .login-card .link a {
+                    color: #5b9df9;
+                    text-decoration: none;
+                }
+
+                    .login-card .link a:hover {
+                        text-decoration: underline;
+                    }
+    </style>
+</head>
+<body>
+    <div class="center-wrapper">
+    <div class="login-card">
+        <h2>Login</h2>
+        <form id="loginForm">
+            <input type="text" id="username" name="username" placeholder="Username or Email" required>
+            <input type="password" id="password" name="password" placeholder="Password" required>
+            <button type="submit">Login</button>
+            <div class="link">
+                <p>Don't have an account? <a href="#">Register here</a></p>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById('loginForm').addEventListener('submit', function(e) {
+            e.preventDefault(); // Prevent form from refreshing the page
+
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            // Check the credentials
+            if (username === "swostika@gmail.com" && password === "1234") {
+                alert("Login successful!");
+                // Redirect or perform any other action on successful login
+            } else {
+                alert("Invalid credentials, please try again.");
+            }
+        });
+    </script>
+
+</body>
+</html>

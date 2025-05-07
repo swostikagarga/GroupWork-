@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\BookMart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\home\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\home\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\home\\whitelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\home\\whitelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\bookmart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\bookmart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\home\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\home\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|c:\\users\\pc\\source\\repos\\bookmart\\bookmart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEAD9A91-42A9-49BA-8DC7-AC367D60E1AC}|BookMart\\BookMart.csproj|solutionrelative:bookmart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BookMart\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BookMart\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:15:41.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:24:11.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T03:33:12.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Signup.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Home\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Signup.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\Home\\Signup.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAwwHYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T03:29:05.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAuwKsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T17:12:05.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T03:26:56.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Home\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\Home\\ProductDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T12:16:26.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Books.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Books.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Home\\Books.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Books.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\Home\\Books.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T19:19:02.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Whitelist.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Whitelist.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Home\\Whitelist.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Whitelist.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\Home\\Whitelist.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T06:01:42.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Program.cs",
+              "RelativeDocumentMoniker": "BookMart\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Program.cs",
+              "RelativeToolTip": "BookMart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:11:07.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\appsettings.json",
+              "RelativeDocumentMoniker": "BookMart\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\appsettings.json",
+              "RelativeToolTip": "BookMart\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T17:18:30.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookMart.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\BookMart.csproj",
+              "RelativeDocumentMoniker": "BookMart\\BookMart.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\BookMart.csproj",
+              "RelativeToolTip": "BookMart\\BookMart.csproj",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T03:27:39.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T04:53:10.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T11:28:34.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "BookMart\\Controllers\\WishlistController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "BookMart\\Controllers\\WishlistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:41:27.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BookMart\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BookMart\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:40:56.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookMart\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookMart\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:41:11.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T05:57:59.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookMart\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookMart\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T05:58:14.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T05:58:01.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T16:13:04.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "BookMart\\Views\\Home\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\Home\\Cart.cshtml.cs",
+              "RelativeToolTip": "BookMart\\Views\\Home\\Cart.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:24:23.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BookMart\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BookMart\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:03:46.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BookMart\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\BookMart\\BookMart\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BookMart\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T03:04:06.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
